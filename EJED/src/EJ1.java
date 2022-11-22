@@ -12,7 +12,7 @@ public class EJ1 {
 
 	}
 	public static void imprimeSaludo() { 
-		System.out.println("Hei");	
+		System.out.println("wola");	
 	}
 
 }
