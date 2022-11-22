@@ -7,7 +7,7 @@ public class EJ1 {
 		
 		
 		
-		System.out.println("Hola mundo");
+		System.out.println("Hellow");
 
 	}
 
