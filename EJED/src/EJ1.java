@@ -12,7 +12,8 @@ public class EJ1 {
 
 	}
 	public static void imprimeSaludo() { 
-		System.out.println("saludos");	
-	}
 
+		System.out.println("saludos");	
+
+}
 }
