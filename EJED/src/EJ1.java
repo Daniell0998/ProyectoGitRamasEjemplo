@@ -7,13 +7,14 @@ public class EJ1 {
 
 		imprimeSaludo();
 
-
+		System.out.println("OtroMensaje");
 
 
 	}
 	public static void imprimeSaludo() { 
 
 		System.out.println("saludos");	
+	
 
 }
 }
